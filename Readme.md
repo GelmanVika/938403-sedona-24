@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория](https://up.htmlacademy.ru/htmlcss/24/user/938403).
-* Наставник: [Анна Пономарёва] (https://htmlacademy.ru/profile/id153610).
+* Наставник: [Анна Пономарёва](https://htmlacademy.ru/profile/id153610).
 
 ---
 
